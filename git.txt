@@ -23,4 +23,6 @@ ssh-keygen -t rsa -C "ncplum@qq.com"
 https://github.com/pear2007/test.git
 
 git remote add origin  https://github.com/pear2007/yii2cmf.git
+git remote add origin  https://github.com/pear2007/trips.git
+
 git push -u origin master 
